@@ -45,11 +45,9 @@ Chikka/
 └── utils/              # Text loaders, embedding pipeline, prompt templates
 
 
----
+##💡 Use Case
 
-💡 Use Case
-
-Chikka helps:
+Chikka helps
 
 🐔 Small-scale farmers raising broilers and cockerels in urban/rural backyards
 
@@ -89,7 +87,7 @@ streamlit run app.py
 
 
 
----
+--
 
 🌍 Deployment
 
@@ -125,11 +123,3 @@ Feel free to open issues, suggest improvements, or fork the repo.
 
 This project is currently unlicensed.
 For reuse, contributions, or collaboration, please contact the creator.
-
----
-
-### ✅ Result:
-Now all your sections like **Use Case**, **Deployment**, **Creator**, etc. will appear correctly as headers when you paste into GitHub.
-
-Would you like this version saved and sent to you as a `.md` or `.docx` file too?
-
