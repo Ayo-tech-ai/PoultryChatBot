@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 # ------------------------
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.3"
 headers = {
-    "Authorization": f"Bearer {st.secrets['HF_TOKEN']}",
+    "Authorization": f"Bearer {st.secrets["HF_TOKEN"]}",
     "Content-Type": "application/json"
 }
 
